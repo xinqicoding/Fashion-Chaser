@@ -4,9 +4,7 @@ import android.content.Context;
 
 import com.amazonaws.auth.CognitoCachingCredentialsProvider;
 
-/**
- * Created by huangm26 on 5/2/16.
- */
+
 public class Kinesis_util {
 
     Context context = null;

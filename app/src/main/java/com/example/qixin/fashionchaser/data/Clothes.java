@@ -3,9 +3,7 @@ package com.example.qixin.fashionchaser.data;
 import android.content.Context;
 import android.net.Uri;
 
-/**
- * Created by huangm26 on 4/26/16.
- */
+
 public class Clothes {
     String color = null;
     String colorValue = null;

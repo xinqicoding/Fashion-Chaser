@@ -2,9 +2,7 @@ package com.example.qixin.fashionchaser.data;
 
 import org.json.JSONObject;
 
-/**
- * Created by lyluy on 2016/4/4.
- */
+
 public class Condition implements JSONPopulator {
     private int code;
     private int temperature;

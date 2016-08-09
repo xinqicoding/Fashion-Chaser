@@ -11,9 +11,7 @@ import com.amazonaws.regions.Regions;
 
 import java.util.List;
 
-/**
- * Created by huangm26 on 3/29/16.
- */
+
 public class Cognito_credential {
 
     private static final String IDENTITY_POOL_ID = "us-east-1:80e2c3cd-6ea0-49ad-b604-80fa1a588605";

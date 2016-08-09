@@ -2,9 +2,7 @@ package com.example.qixin.fashionchaser.data;
 
 import org.json.JSONObject;
 
-/**
- * Created by lyluy on 2016/4/4.
- */
+
 public class Channel implements JSONPopulator{
     private Item item;
     private Units units;

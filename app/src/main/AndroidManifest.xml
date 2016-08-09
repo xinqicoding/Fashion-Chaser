@@ -29,12 +29,12 @@
 
         <activity
             android:name=".OptionMenuActivity"
-            android:label="@string/title_activity_option_menu" >
+            android:label="OptionMenuActivity" >
         </activity>
 
         <activity
             android:name=".InsertNewClothes"
-            android:label="@string/title_activity_insert_new_clothes" >
+            android:label="InsertNewCLothes" >
         </activity>
 
     </application>

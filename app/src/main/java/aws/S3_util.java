@@ -18,9 +18,7 @@ import com.amazonaws.services.s3.model.Bucket;
 
 import java.io.File;
 
-/**
- * Created by huangm26 on 3/29/16.
- */
+
 public class S3_util {
 
     Context context = null;

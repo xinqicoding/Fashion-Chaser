@@ -14,9 +14,7 @@ import org.json.JSONObject;
 
 import java.io.File;
 
-/**
- * Created by huangm26 on 4/22/16.
- */
+
 public class DetectColor extends AsyncTask<String, Integer, HttpResponse<JsonNode>> {
 
     File imagePath = null;

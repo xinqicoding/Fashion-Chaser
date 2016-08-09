@@ -4,9 +4,7 @@ import com.amazonaws.mobileconnectors.dynamodbv2.dynamodbmapper.DynamoDBAttribut
 import com.amazonaws.mobileconnectors.dynamodbv2.dynamodbmapper.DynamoDBHashKey;
 import com.amazonaws.mobileconnectors.dynamodbv2.dynamodbmapper.DynamoDBTable;
 
-/**
- * Created by huangm26 on 4/5/16.
- */
+
 
 @DynamoDBTable(tableName = "Users")
 public class Users {
