@@ -14,9 +14,7 @@ import java.io.InputStreamReader;
 import java.net.URL;
 import java.net.URLConnection;
 
-/**
- * Created by lyluy on 2016/4/4.
- */
+
 public class YahooWeatherService {
     private WeatherServiceCallback callback;
     private String location;

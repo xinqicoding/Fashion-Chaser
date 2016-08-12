@@ -1,6 +1,6 @@
 package com.example.qixin.fashionchaser.service;
 
-import com.example.huangm26.fashionchaser.data.Channel;
+import com.example.qixin.fashionchaser.data.Channel;
 
 /**
  * Created by lyluy on 2016/4/4.
