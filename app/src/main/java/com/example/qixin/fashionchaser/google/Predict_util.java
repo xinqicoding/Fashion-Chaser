@@ -25,9 +25,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * Created by huangm26 on 5/3/16.
- */
+
 public class Predict_util {
 
     /**
