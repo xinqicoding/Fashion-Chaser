@@ -1,6 +1,5 @@
 package aws;
 
-
 import com.amazonaws.mobileconnectors.dynamodbv2.dynamodbmapper.*;
 
 
