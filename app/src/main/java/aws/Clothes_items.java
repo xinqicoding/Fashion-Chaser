@@ -2,7 +2,6 @@ package aws;
 
 import com.amazonaws.mobileconnectors.dynamodbv2.dynamodbmapper.*;
 
-
 @DynamoDBTable(tableName = "Clothes")
 public class Clothes_items {
     private String fileuri;
